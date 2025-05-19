@@ -1,6 +1,9 @@
 {
   "name": "kd-create-new-project",
   "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "",
   "type": "module",
   "main": "index.js",
