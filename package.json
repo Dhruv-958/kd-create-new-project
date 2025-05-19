@@ -1,11 +1,11 @@
 {
-  "name": "kd-create-project",
+  "name": "kd-create-new-project",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "kd-create-project": "./bin/index.js"
+    "kd-create-new-project": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

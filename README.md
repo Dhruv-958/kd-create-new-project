@@ -1,8 +1,8 @@
-# create-kd-project
+# kd-create-project
 
 ## What It Does
 
-`create-kd-project` is a simple and powerful command-line tool designed to help developers quickly set up a full-stack application. The tool allows you to generate a project structure that includes a React frontend, a Node.js/Express backend, and a MongoDB database. Whether you need just the frontend, just the backend, or a complete full-stack application, `create-kd-project` makes it easy to get started.
+`kd-create-new-project` is a simple and powerful command-line tool designed to help developers quickly set up a full-stack application. The tool allows you to generate a project structure that includes a React frontend, a Node.js/Express backend, and a MongoDB database. Whether you need just the frontend, just the backend, or a complete full-stack application, `kd-create-new-project` makes it easy to get started.
 
 The tool creates a project scaffold with modern web technologies, allowing you to focus on building your application instead of spending time on initial setup.
 
@@ -24,20 +24,20 @@ The tool creates a project scaffold with modern web technologies, allowing you t
 
 ### 1. Install Globally
 
-To install `create-kd-project` globally on your machine, run the following command:
+To install `kd-create-new-project` globally on your machine, run the following command:
 
 ```bash
-npm install -g @khileshthakur25/create-kd-project
+npm install -g kd-create-new-project
 ```
 
-This makes the `create-kd-project` command available globally, so you can use it from anywhere on your system.
+This makes the `kd-create-new-project` command available globally, so you can use it from anywhere on your system.
 
 ### 2. Install Locally (Optional)
 
 If you prefer to install the tool locally within a specific project, run:
 
 ```bash
-npm install @khileshthakur25/create-kd-project
+npm install kd-create-new-project
 ```
 
 ### 3. Create an Empty Project Directory
@@ -50,7 +50,7 @@ cd my-project
 ### 4. Run the Command
 
 ```bash
-create-kd-project
+kd-create-new-project
 ```
 
 This will trigger the tool to guide you through the setup process.
@@ -143,7 +143,7 @@ npm run dev
 
 ## Why This Project Was Created
 
-`create-kd-project` was created to make it easier for developers to set up full-stack applications with modern tools like React, Express, and MongoDB. It streamlines the process of scaffolding a project, eliminating the need to configure the basic project structure manually.
+`kd-create-new-project` was created to make it easier for developers to set up full-stack applications with modern tools like React, Express, and MongoDB. It streamlines the process of scaffolding a project, eliminating the need to configure the basic project structure manually.
 
 Ideal for:
 
@@ -191,8 +191,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 Feel free to fork the repository, contribute, and submit pull requests. Any feedback or suggestions are welcome!
 
 ---
-
-Let me know if you'd like this in `.md` format or want to auto-generate the full GitHub README layout!
-=======
-# kd-create-new-project
->>>>>>> 4bf75e3c7e22aac5ac0d02165f824b395b2db911
