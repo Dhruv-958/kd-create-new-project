@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here is your updated `README.md`, with the command changed from `init-my-project` to `create-kd-project`, and the new feature (menu bar and sign-in/sign-up page prompt) included:
 
 ---
@@ -197,3 +198,6 @@ Feel free to fork the repository, contribute, and submit pull requests. Any feed
 ---
 
 Let me know if you'd like this in `.md` format or want to auto-generate the full GitHub README layout!
+=======
+# kd-create-new-project
+>>>>>>> 4bf75e3c7e22aac5ac0d02165f824b395b2db911
