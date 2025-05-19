@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Here is your updated `README.md`, with the command changed from `init-my-project` to `create-kd-project`, and the new feature (menu bar and sign-in/sign-up page prompt) included:
-
----
-
 # create-kd-project
 
 ## What It Does
