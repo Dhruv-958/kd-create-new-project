@@ -404,7 +404,7 @@ npm start
 4. MongoDB Setup
 Make sure MongoDB is installed and running on your local machine. The backend will try to connect to mongodb://127.0.0.1:27017/mydb.
 
-If you don’t have MongoDB installed, follow the instructions from the official website:
+If you don't have MongoDB installed, follow the instructions from the official website:
 - Install MongoDB (https://www.mongodb.com/docs/manual/installation/)
 
 5. Usage

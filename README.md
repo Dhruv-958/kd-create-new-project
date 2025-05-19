@@ -88,7 +88,7 @@ Choose `React` and `JavaScript` when prompted for frontend technologies.
 
 ### Backend Setup
 
-1. Start MongoDB locally:
+1. Start the MongoDB server locally:
 
 ```bash
 mongod
